@@ -44,7 +44,9 @@ int main () {
 
 #### Encryption:
 
+   ![Display an Image](https://github.com/Mubashirulislam/Cryptography-Network-Security/blob/master/Programs/Caesar%20Cipher/encryption.png)
 
 
 #### Decryption:
 
+ ![Display an Image](https://github.com/Mubashirulislam/Cryptography-Network-Security/blob/master/Programs/Caesar%20Cipher/decryption.png)
